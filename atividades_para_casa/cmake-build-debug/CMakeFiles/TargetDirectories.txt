@@ -1,0 +1,3 @@
+/Users/leticiaspeda/exerciciosDeAlgoritmo-faculdade/atividades_para_casa/cmake-build-debug/CMakeFiles/atividades_para_casa.dir
+/Users/leticiaspeda/exerciciosDeAlgoritmo-faculdade/atividades_para_casa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leticiaspeda/exerciciosDeAlgoritmo-faculdade/atividades_para_casa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
